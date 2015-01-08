@@ -1,2 +1,2 @@
 # project
-y first Java project
+My first Java project
